@@ -1,6 +1,6 @@
 ## EDA on Indian Fertilizers Use using Plotly Express
 
-**NOTE :**  Dataset and problem statement has been collected by [Kaggle](https://www.kaggle.com/josehenriqueroveda/fertilizers-by-product-fao).
+**NOTE :**  Dataset and problem statement has been collected by [Kaggle](https://www.kaggle.com/josehenriqueroveda/fertilizers-by-product-fao). Github is not displaying plotly outputs, so you can find the compiled notebook on my Kaggle [HERE](https://www.kaggle.com/kushagrachugh/indian-fertilizer-use).
 
 I have used Plotly Express to do extensive EDA on this dataset to conclude how India had been using fertilizers from 2002 - 2017.
 
